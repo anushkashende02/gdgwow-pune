@@ -6,6 +6,9 @@ Google Developer Group (GDG) Women of Wonders (WOW) Pune is a community-driven i
 ## Our Mission
 To inspire and support women in tech by providing resources, mentorship, and opportunities for skill development in various Google technologies.
 
+## Recent Events
+- [GDG WOW Summit Pune 2025](events/gdg_wow_summit_2025.md) - A spectacular 2-day event featuring renowned speakers like Dr. Fei-Fei Li, Melonie Parker, and many more tech leaders.
+
 ## What We Do
 - **Technical Workshops**: Hands-on sessions on Google technologies, including Android, Flutter, Cloud, ML/AI, and Web Development
 - **Speaker Sessions**: Talks by industry experts and Google Developer Experts
